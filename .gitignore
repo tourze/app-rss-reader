@@ -40,6 +40,17 @@ Thumbs.db
 *.lock
 *.out
 
+# IDE
+.idea
+nbproject
+.buildpath
+.project
+.settings
+
+# composer
+composer.phar
+composer.lock
+
 # App specific #
 ################
 config.php
