@@ -49,7 +49,7 @@ nbproject
 
 # composer
 composer.phar
-composer.lock
+vendor
 
 # App specific #
 ################
